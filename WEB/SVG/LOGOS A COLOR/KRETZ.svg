@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 689.68 109.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #004f91;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g id="Capa_1-3" data-name="Capa 1-3">
+      <g id="Grupo_11" data-name="Grupo 11">
+        <path id="Trazado_42" data-name="Trazado 42" class="cls-1" d="m0,0h41v40.14L83.24,0h48.16l-56.4,54.3,56.4,55.67h-48.91l-40.56-40.14v40.14H0V0Z"/>
+        <path id="Trazado_43" data-name="Trazado 43" class="cls-1" d="m270.11,35.87v-3.7C270.11,14.4,255.71,0,237.95,0h-97.54v109.96h39.73v-40.24l42.25,40.24h47.75l-41.82-41.93h9.66c17.76,0,32.16-14.39,32.16-32.15v-.02h-.02Zm-48.69,7.02h-40.67v-15.85h40.67c4.37,0,7.92,3.54,7.92,7.92,0,4.37-3.54,7.92-7.92,7.92h0v.02Z"/>
+        <path id="Trazado_44" data-name="Trazado 44" class="cls-1" d="m408.06,0h-94.97c-18.61,0-33.69,15.09-33.69,33.69v42.57c0,18.61,15.09,33.69,33.69,33.69h94.97v-27.68h-88.74v-13.09h75v-27.47h-76.05v-14.68h89.79V0Z"/>
+        <path id="Trazado_45" data-name="Trazado 45" class="cls-1" d="m419.48,0v27.79h45.21v82.18h39.71V27.58h44.8V0h-129.71Z"/>
+        <path id="Trazado_46" data-name="Trazado 46" class="cls-1" d="m560.19,0h129.5v27.9l-74.36,53.67h74.36v28.4h-129.5v-28.2l74.76-54.72h-74.76V0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
